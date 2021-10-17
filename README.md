@@ -41,8 +41,4 @@ Hi! Here's a bit about me:
   <a href="https://github.com/DADi590/Chrome-Dino-Game-in-Assembly">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly" />
   </a>
-  
-  <a href="https://github.com/DADi590/Chrome-Dino-Game-in-Assembly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly" />
-  </a>
 </div>
