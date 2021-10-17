@@ -35,7 +35,12 @@ Hi! Here's a bit about me:
 #### Super-pinned repositories
 <div>
   <a href="https://github.com/DADi590/LEGION---A-real-assistant--Android-Client">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DADi590&repo=LEGION---A-real-assistant--Android-Client&theme=darcula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Android-Client" />
   </a>
 </div>
 
+<div>
+  <a href="https://github.com/DADi590/Chrome-Dino-Game-in-Assembly">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly" />
+  </a>
+</div>
