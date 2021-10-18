@@ -2,7 +2,7 @@
 
 #### About me
 
-Hi! Here's a bit about me:
+Hi random person! Found my address! Wonder how... Hmm... Here's a bit about me then!: [yes, !: is perfectly valid for sure, right? 😂]
 
 - 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything I'd like)
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (trying to fix and/or improve devices I have) in my free time
