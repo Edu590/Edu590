@@ -23,8 +23,6 @@ Here's a bit about me then!: [yes, !: is perfectly valid for sure, right? XD]
 | Discord     | DADi590#1745
 | Reddit      | [DADi590](https://www.reddit.com/user/DADi590)
 
-Amazing credits for the images below: https://github.com/anuraghazra/github-readme-stats.
-
 #### My GitHub statistics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DADi590&show_icons=true&include_all_commits=true&theme=darcula)
@@ -34,3 +32,5 @@ Amazing credits for the images below: https://github.com/anuraghazra/github-read
 
 [![LEGION - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Android-Client)](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client)
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
+
+Amazing credits for the images above: https://github.com/anuraghazra/github-readme-stats.
