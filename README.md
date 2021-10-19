@@ -1,6 +1,6 @@
 ### Hey random alien! 👋
 
-Found my planet! Wonder how... Hmm... 🤔
+Found my personal planet! Wonder how... Hmm... 🤔
 
 #### Here's a bit about me then!:
 
