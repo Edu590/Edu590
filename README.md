@@ -1,10 +1,10 @@
-### Hey there! 👋
+### Hey random alien! 👋
 
-Hi random alien! Found my planet! Wonder how... Hmm...
+Found my planet! Wonder how... Hmm... 🤔
 
-#### About me
+#### Here's a bit about me then!:
 
-Here's a bit about me then!: [yes, !: is perfectly valid for sure, right? XD]
+[yes, !: is perfectly valid for sure... right?]
 
 - 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything I'd like)
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (trying to fix and/or improve devices I have) in my free time
