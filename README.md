@@ -11,9 +11,9 @@ Found my personal planet! Wonder how... Hmm... 🤔
 - ✨ Some ideas I like: IoT and home/car automation
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love Marvel movies
 <!--- 👯 I’m looking to collaborate on: ...
-- 🤔 I’m looking for help with: ...
-- ⚡ Fun fact: ...-->
+- 🤔 I’m looking for help with: ...-->
 
 #### 📫 How to reach me
 
