@@ -7,7 +7,8 @@ Found my personal planet! Wonder how... Hmm... 🤔
 [yes, !: is perfectly valid for sure... right?]
 
 - 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
-- 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (trying to fix and/or improve devices I have) in my free time
+- 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have)
+- 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (trying to fix and/or improve devices I have)
 - ✨ Some ideas I like: IoT and home/car automation
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him/His
