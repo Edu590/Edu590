@@ -2,8 +2,6 @@
 
 Found my personal planet! Wonder how... Hmm... 🤔
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="eduardo-david-590" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/eduardo-david-590?trk=profile-badge">Eduardo F.</a></div>
-
 #### Here's a bit about me then!:
 
 - 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
