@@ -2,6 +2,8 @@
 
 Found my personal planet! Wonder how... Hmm... 🤔
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="eduardo-david-590" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/eduardo-david-590?trk=profile-badge">Eduardo F.</a></div>
+
 #### Here's a bit about me then!:
 
 - 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
@@ -17,9 +19,9 @@ Found my personal planet! Wonder how... Hmm... 🤔
 
 | Website     | Reference
 |-------------|----------
-| Twitter     | [DADi590](https://twitter.com/DADi590)
-| Discord     | DADi590#1745
-| Reddit      | [DADi590](https://www.reddit.com/user/DADi590)
+| ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)     | [DADi590](https://twitter.com/DADi590)
+| ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)     | DADi590#1745
+| ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)        | [DADi590](https://www.reddit.com/user/DADi590)
 
 #### My GitHub statistics
 
