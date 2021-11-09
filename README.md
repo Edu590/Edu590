@@ -1,12 +1,12 @@
 ### Hey random alien! 👋
 
-Found my personal planet! Wonder how... Hmm... 🤔
+Welcome to my personal planet!
 
 #### Here's a bit about me then!:
 
 - 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have)
-- ✨ Some ideas I like: IoT and home/car automation
+- ✨ Some ideas I like: IoT and home/car automation, possible security things like CTFs too
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Marvel movies
