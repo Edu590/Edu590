@@ -1,6 +1,6 @@
-### Hey random [Insert appropriate word]! 👋
+### Hey random voyager! 👋
 
-Welcome to my personal planet!
+Welcome to my programming experiences space!
 
 #### Here's a bit about me:
 
