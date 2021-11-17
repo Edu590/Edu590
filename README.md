@@ -29,7 +29,7 @@ Welcome to my programming experiences personal space!
 #### Super-pinned repositories
 
 [![LEGION - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Android-Client)](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client)
-[![LEGION - A real assistant [Platforms Unifier]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Platforms-Unifier)](https://github.com/DADi590/LEGION---A-real-assistantPlatforms-Unifier)
+[![LEGION - A real assistant [Platforms Unifier]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Platforms-Unifier)](https://github.com/DADi590/LEGION---A-real-assistant--Platforms-Unifier)
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
 
 Amazing credits for the images above: https://github.com/anuraghazra/github-readme-stats.
