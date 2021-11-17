@@ -1,4 +1,4 @@
-### Hey random voyager! 👋
+### Greetings random voyager! 👋
 
 Welcome to my programming experiences personal space!
 
