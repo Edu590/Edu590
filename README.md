@@ -4,7 +4,7 @@ Welcome to my programming experiences personal space!
 
 #### Here's a bit about me:
 
-- 🔭 I’m currently working on: my [LEGION assistant project](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
+- 🔭 I’m currently working on: my [V.I.S.O.R. assistant project](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
 - 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have)
 - ✨ Some ideas I like: IoT and home/car automation, possible security things like CTFs too
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
@@ -28,8 +28,8 @@ Welcome to my programming experiences personal space!
 
 #### Super-pinned repositories
 
-[![LEGION - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Android-Client)](https://github.com/DADi590/LEGION---A-real-assistant--Android-Client)
-[![LEGION - A real assistant [Platforms Unifier]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=LEGION---A-real-assistant--Platforms-Unifier)](https://github.com/DADi590/LEGION---A-real-assistant--Platforms-Unifier)
+[![V.I.S.O.R. - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Android-Client)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
+[![V.I.S.O.R. - A real assistant [Platforms Unifier]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Platforms-Unifier)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Platforms-Unifier)
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
 
 Amazing credits for the images above: https://github.com/anuraghazra/github-readme-stats.
