@@ -4,8 +4,8 @@ Welcome to my programming experiences personal space!
 
 #### Here's a bit about me:
 
-- 🔭 I’m currently working on: my [V.I.S.O.R. assistant project](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want)
-- 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have)
+- 🔭 I’m currently working on: my [V.I.S.O.R. assistant project](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client) (a future "all-assistant" to control everything the user would want) and a [Fallout 1 DOS EXE patcher](https://github.com/DADi590/Fallout1DOSPatcher) using Assembly and C
+- 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have, and maybe a Casio fx-82ms mod)
 - ✨ Some ideas I like: IoT and home/car automation, possible security things like CTFs too
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him/His
