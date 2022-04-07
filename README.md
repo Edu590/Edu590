@@ -4,8 +4,8 @@ Welcome to my programming experiences personal space!
 
 #### Here's a bit about me:
 
-- 🔭 I’m currently working on: my [V.I.S.O.R. assistant project](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client) (currently an Android virtual assistant) and [F1DP (Fallout 1 DOS Patcher)](https://github.com/DADi590/Fallout1DOSPatcher) using C + Inline-Assembly and Assembly.
-- 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have, and maybe a Casio fx-82ms mod)
+- 🔭 I’m currently working on: making a Linear DC Power Supply (start simple and safe, not SMPS right away messing on the 230 VAC side...). Also, after that, I want to attempt to make a Power Function Generator (with its very useful mains isolation, I could then make an SMPS more safely some other time). I don't have any, so these will be my 2 home lab PSUs!
+- 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
 - ✨ Some ideas I like: IoT and home/car automation, possible security things like CTFs too
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him/His
