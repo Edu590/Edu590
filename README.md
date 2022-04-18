@@ -17,6 +17,8 @@ It's still good enough for me to do some cool things though, which you can find 
 <!--- 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with: ...-->
 
+Nickname note: no, DADi is not read "daddy", and has absolutely nothing to do with that, as everyone who comes across the name thinks xD. It's just an old "diminutive" of my name with approx. my age, that I still use. For the meaning of 590, ask Skype, which in 2012 recommended as an addition to the nickname because DADi was already taken.
+
 #### 📫 How to reach me
 
 | Website     | Reference
