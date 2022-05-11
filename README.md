@@ -4,7 +4,7 @@ Welcome to my programming experiences personal space!
 
 #### Here's a bit about me:
 
-I'm one of those people with old-gen CPUs from the previous millenium (in my case, from the end of 99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets and powering the house down, or laying in a mooving walkway (hospital came next), or various other perfectly normal things like these 2.
+I'm one of those people with old-gen CPUs from the previous millenium (in my case, from the end of 99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets and powering the house down, or laying in a mooving walkway (hospital came next), or various other perfectly normal things.
 
 It's still good enough for me to do some cool things though, which you can find in my repositories. I love to do something useful and learn new things along the way.
 
@@ -17,7 +17,7 @@ It's still good enough for me to do some cool things though, which you can find 
 <!--- 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with: ...-->
 
-Nickname note: no, DADi is not read "daddy", and has absolutely nothing to do with that, as everyone who comes across the name thinks xD. It's just an old "diminutive" of my name with approx. my age, that I still use. For the meaning of 590, ask Skype, which in 2012 recommended as an addition to the nickname because DADi was already taken.
+Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothing to do with that word, contrary to what everyone who comes across the name thinks xD. It's just an old "diminutive" of my name with approx. my age, that I still use. For the meaning of 590, ask Skype, which in 2012 recommended as an addition to the nickname because DADi was already taken.
 
 #### 📫 How to reach me
 
