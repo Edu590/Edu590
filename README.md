@@ -19,14 +19,6 @@ It's still good enough for me to do some cool things though, which you can find 
 
 Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothing to do with that word, contrary to what everyone who comes across the name thinks xD. It's just an old "diminutive" of my name with approx. my age, that I still use. For the meaning of 590, ask Skype, which in 2012 recommended as an addition to the nickname because DADi was already taken.
 
-#### 📫 How to reach me
-
-| Website     | Reference
-|-------------|----------
-| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)     | [DADi590](https://twitter.com/DADi590)
-| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)     | DADi590#1745
-| [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)         | [DADi590](https://www.reddit.com/user/DADi590)
-
 #### My GitHub statistics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DADi590&show_icons=true&include_all_commits=true&theme=darcula)
@@ -40,3 +32,11 @@ Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothi
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
 
 Amazing credits for the images above: https://github.com/anuraghazra/github-readme-stats.
+
+#### 📫 How to reach me
+
+| Website     | Reference
+|-------------|----------
+| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)     | [DADi590](https://twitter.com/DADi590)
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)     | DADi590#1745
+| [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)         | [DADi590](https://www.reddit.com/user/DADi590)
