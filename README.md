@@ -6,7 +6,7 @@ Welcome to my programming experiences personal space!
 
 I'm one of those people with old-gen CPUs from the previous millenium (in my case, from the end of 99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets and powering the house down, or laying in a mooving walkway (hospital came next), or various other perfectly normal things.
 
-It's still good enough for me to do some cool things though, which you can find in my repositories. I love to do something useful and learn new things along the way.
+It's still good enough for me to do some cool things though, which you can find in my repositories, and the most important are super-pinned just below. I love to do something useful and learn new things along the way.
 
 - 🔭 I’m currently working on: making a Linear DC Power Supply (start simple and safe, not SMPS right away messing on the 230 VAC side...). Also, after that, I want to attempt to make a Power Function Generator (with its very useful mains isolation, I could then make an SMPS more safely some other time). I don't have any, so these will be my 2 home lab PSUs!
 - 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
@@ -18,6 +18,14 @@ It's still good enough for me to do some cool things though, which you can find 
 - 🤔 I’m looking for help with: ...-->
 
 Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothing to do with that word, contrary to what everyone who comes across the name thinks xD. It's just an old "diminutive" of my name with approx. my age, that I still use. For the meaning of 590, ask Skype, which in 2012 recommended as an addition to the nickname because DADi was already taken.
+
+#### 📫 How to reach me
+
+| Website     | Reference
+|-------------|----------
+| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)     | [DADi590](https://twitter.com/DADi590)
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)     | DADi590#1745
+| [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)         | [DADi590](https://www.reddit.com/user/DADi590)
 
 #### My GitHub statistics
 
@@ -32,11 +40,3 @@ Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothi
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
 
 Amazing credits for the images above: https://github.com/anuraghazra/github-readme-stats.
-
-#### 📫 How to reach me
-
-| Website     | Reference
-|-------------|----------
-| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)     | [DADi590](https://twitter.com/DADi590)
-| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)     | DADi590#1745
-| [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)         | [DADi590](https://www.reddit.com/user/DADi590)
