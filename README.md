@@ -9,8 +9,8 @@ I'm one of those people with old-gen CPUs from the previous millenium (in my cas
 It's still good enough for me to do some cool things though, which you can find in my repositories, and the most important are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
 
 - 🔭 I’m currently working on: making a Linear DC Power Supply (start simple and safe, not SMPS right away messing on the 230 VAC side...). Also, after that, I want to attempt to make a Power Function Generator (with its very useful mains isolation, I could then make an SMPS more safely some other time). I don't have any, so these will be my 2 home lab PSUs!
-- 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming and messing with electronics in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
-- ✨ Some ideas I like: IoT and home/car automation, possible security things like CTFs too
+- 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming (check the repos here) and messing with electronics in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
+- ✨ Some ideas I like: low-level programming and Reverse Engineering, and electronics
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Marvel movies
