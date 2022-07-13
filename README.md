@@ -35,6 +35,7 @@ Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothi
 #### Super-pinned repositories
 
 [![Fallout 1 DOS Patcher](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Fallout1DOSPatcher)](https://github.com/DADi590/Fallout1DOSPatcher)
+[![TestOS](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=TestOS)](https://github.com/DADi590/TestOS)
 [![V.I.S.O.R. - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Android-Client)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
 [![V.I.S.O.R. - A real assistant [Platforms Unifier]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Platforms-Unifier)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Platforms-Unifier)
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
