@@ -8,7 +8,7 @@ I'm one of those people with old-gen CPUs from the previous millenium (in my cas
 
 It's still good enough for me to do some cool things though, which you can find in my repositories (for programming projects, that is), and the currently most important for me are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
 
-- 🔭 I’m currently working on: making a Linear DC Power Supply (start simple and safe, not SMPS right away messing on the 230 VAC side...). Also, after that, I might attempt at making a Power Function Generator (with its very useful mains isolation, I could then make an SMPS more safely some other time). I don't have any, so these will be my 2 home lab PSUs!
+- 🔭 I’m currently working on: making a simple Operating System to learn how they work (maybe I try a bootloader next, and I'd love to modify some computer BIOS, even if just some string... xD); and I'm also making a Linear DC Power Supply to be the one on my home bench to power other projects of mine that are on hold until this gets done.
 - 🌱 I’m currently learning: Electrotechnical and Computer Engineering at university, and programming (check the repos here) and messing with electronics in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
 - ✨ Some ideas I like: low-level programming and Reverse Engineering, and electronics
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
