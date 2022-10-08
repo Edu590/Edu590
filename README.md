@@ -23,9 +23,9 @@ Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothi
 
 | Website     | Reference
 |-------------|----------
-| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)     | [DADi590](https://twitter.com/DADi590)
 | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)     | DADi590#1745
 | [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)         | [DADi590](https://www.reddit.com/user/DADi590)
+| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)     | [DADi590](https://twitter.com/DADi590)
 
 #### My GitHub statistics
 
