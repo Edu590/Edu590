@@ -4,7 +4,7 @@ Welcome to my programming experiences personal space!
 
 #### Here's a bit about me:
 
-I'm one of those people with old-gen CPUs from the previous millenium (in my case, from the end of 99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets and powering the house down, or laying in a mooving walkway (hospital came next), or various other perfectly normal things.
+I'm one of those people with old-gen CPUs from the last millenium (in my case, from the end of '99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets and powering the house down, or laying in a mooving walkway (hospital came next), or various other perfectly normal things.
 
 It's still good enough for me to do some cool things though, which you can find in my repositories (for programming projects, that is), and the currently most important for me are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
 
