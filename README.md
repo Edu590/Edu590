@@ -34,8 +34,11 @@ Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothi
 ![My GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DADi590&langs_count=10&layout=compact&theme=darcula)
 
 #### Super-pinned repositories
+##### Electronics
+[![Homemade DC PSU](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Homemade-DC-PSU)](https://github.com/DADi590/Homemade-DC-PSU)
 
-[![Fallout 1 DOS Patcher](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Fallout1DOSPatcher)](https://github.com/DADi590/Fallout1DOSPatcher)
+##### Programming
+[![F1DP](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=F1DP)](https://github.com/DADi590/F1DP)
 [![TestOS](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=TestOS)](https://github.com/DADi590/TestOS)
 [![V.I.S.O.R. - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Android-Client)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
 [![Advanced Commands Detection](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Advanced-Commands-Detection)](https://github.com/DADi590/Advanced-Commands-Detection)
