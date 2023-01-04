@@ -35,12 +35,12 @@ Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothi
 
 #### Super-pinned repositories
 ##### Electronics
-[![Homemade DC PSU](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Homemade-DC-PSU)](https://github.com/DADi590/Homemade-DC-PSU)
+[![Homemade DC 30V/4A PSU](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Homemade-DC-PSU)](https://github.com/DADi590/Homemade-DC-PSU)
 
 ##### Programming
 [![F1DP](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=F1DP)](https://github.com/DADi590/F1DP)
 [![TestOS](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=TestOS)](https://github.com/DADi590/TestOS)
-[![V.I.S.O.R. - A real assistant [Android/Client]](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Android-Client)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
+[![VISOR - A better Android assistant](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Android-Client)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
 [![Advanced Commands Detection](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Advanced-Commands-Detection)](https://github.com/DADi590/Advanced-Commands-Detection)
 [![Chrome Dino Game in Assembly](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
 
