@@ -1,6 +1,6 @@
 ### Greetings random voyager! 👋
 
-Welcome to my personal projects space!
+Welcome to my personal projects space! (Includes electronics and programming projects. Not just programming ones.)
 
 #### Here's a bit about me:
 
