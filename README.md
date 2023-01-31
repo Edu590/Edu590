@@ -2,9 +2,9 @@
 
 Welcome to my personal projects space! (Includes electronics and programming projects. Not just programming ones.)
 
-Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothing to do with that word, contrary to what everyone who comes across the name thinks xD. "590" has no meaning at all (random addition to the nickname in 2012).
-
 #### Here's a bit about me:
+
+\[Nickname note: no, DADi is not pronounced like "daddy", and has absolutely nothing to do with that word, contrary to what everyone who comes across the name thinks xD. "590" has no meaning at all (random addition to the nickname in 2012).\]
 
 I'm one of those people with old-gen CPUs from the last millenium (in my case, from the end of '99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets or various other perfectly \[and even more\] normal things.
 
