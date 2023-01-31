@@ -8,7 +8,7 @@ Welcome to my personal projects space! (Includes electronics and programming pro
 
 I'm one of those people with old-gen CPUs from the last millenium (in my case, from the end of '99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets or various other perfectly \[and even more\] normal things.
 
-It's still good enough for me to do some cool things though, which you can find in my repositories (for programming projects, that is), and the currently most important for me are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
+It's still good enough for me to do some cool things though, which you can find in my repositories, and the currently most important for me are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
 
 - 🔭 I’m currently working on:
 - - a simple Operating System to learn how they work (maybe I try a bootloader next, and I'd love to modify some computer BIOS, even if just some string... xD)
