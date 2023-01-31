@@ -13,7 +13,7 @@ It's still good enough for me to do some cool things though, which you can find 
 - - I'm also making a Linear DC Power Supply to be the one on my home bench to power other projects of mine that are on hold until this gets done
 - - a forever being developed virtual assistant, V.I.S.O.R.
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (check the repos here for both things) in my free time (trying to fix and/or improve devices I have, and also make things, like the PSU I mentioned)
-- ✨ Some ideas I like: low-level programming and Reverse Engineering, and electronics
+- ✨ Some ideas I like: IoT, low-level programming and Reverse Engineering, and electronics
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Superheroes movies (Marvel/DC)
