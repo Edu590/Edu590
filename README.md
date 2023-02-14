@@ -26,15 +26,15 @@ It's still good enough for me to do some cool things though, which you can find 
 
 | Website     | Reference
 |-------------|----------
-| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)        | Edu590#1745
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)        | Edw590#1745
 | [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)            | [DADi590](https://www.reddit.com/user/DADi590)
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)    | [Profile link](https://www.linkedin.com/in/eduardo-david-590)
-| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)        | [Edu590_](https://twitter.com/Edu590_)
+| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)        | [Edw590](https://twitter.com/Edw590)
 
 #### My GitHub statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DADi590&show_icons=true&include_all_commits=true&theme=darcula)
-![My GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DADi590&langs_count=10&layout=compact&theme=darcula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edw590&show_icons=true&include_all_commits=true&theme=darcula)
+![My GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edw590&langs_count=10&layout=compact&theme=darcula)
 
 #### Super-pinned repositories
 ##### Electronics
