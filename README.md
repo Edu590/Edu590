@@ -2,6 +2,8 @@
 
 Welcome to my personal projects space! (Includes electronics and programming projects, not just programming ones)
 
+**\[Note: DADi590 is the old account name\]**
+
 #### Here's a bit about me:
 
 I'm one of those people with old-gen CPUs from the last millenium (in my case, from the end of '99) - possibly a reason for not working so well, because weird glitches happen sometimes, like me putting decorations in wall outlets or various other perfectly \[and even more\] normal things.
@@ -19,8 +21,6 @@ It's still good enough for me to do some cool things though, which you can find 
 - ⚡ Fun fact: I love Superheroes movies (Marvel/DC)
 <!--- 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with: ...-->
-
-\[Note: DADi590 is the old account name\]
 
 #### 📫 How to reach me
 
