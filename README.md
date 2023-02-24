@@ -2,7 +2,7 @@
 
 Welcome to my personal projects space! (Includes electronics and programming projects, not just programming ones)
 
-**Note: my old username is DADi590** (and no, DADi is not "daddy").
+**Note: my old username is DADi590** (and no, DADi is not read "daddy" xD).
 
 ### Here's a bit about me:
 
