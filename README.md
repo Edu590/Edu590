@@ -31,9 +31,7 @@ It's still good enough for me to do some cool things though, which you can find 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)    | [Profile link](https://www.linkedin.com/in/edw590)
 | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)        | [Edw590](https://twitter.com/Edw590)
 
-### Some statistics
-
-<a href="https://stackexchange.com/users/10715125/edw590"><img src="https://stackexchange.com/users/flair/10715125.png" width="208" height="58" alt="profile for Edw590 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Edw590 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+### Some GitHub statistics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edw590&show_icons=true&include_all_commits=true&theme=darcula)
 ![My GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edw590&langs_count=10&layout=compact&theme=darcula)
