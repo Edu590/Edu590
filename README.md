@@ -26,9 +26,9 @@ It's still good enough for me to do some cool things though, which you can find 
 
 | Website     | Reference
 |-------------|----------
-| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)        | edw590 (or Edw590#1745)
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)        | [Profile link](https://discord.com/users/292018619603222539) (edw590 or Edw590#1745)
 | [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)            | [DADi590](https://www.reddit.com/user/DADi590)
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)    | [Profile link](https://www.linkedin.com/in/edw590)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)    | [edw590](https://www.linkedin.com/in/edw590)
 | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)        | [Edw590](https://twitter.com/Edw590)
 
 ### Some GitHub statistics
