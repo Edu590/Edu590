@@ -11,8 +11,6 @@ I'm one of those people with old-gen CPUs from the last millenium (in my case, f
 It's still good enough for me to do some cool things though, which you can find in my repositories, and the currently most important for me are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
 
 - 🔭 I’m currently working on:
-- - a simple Operating System to learn how they work (maybe I try a bootloader next, and I'd love to modify some computer BIOS, even if just some string... xD)
-- - a Linear DC Power Supply to be the one on my home bench to power other projects of mine that are on hold until this gets done
 - - a forever being developed virtual assistant, V.I.S.O.R.
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (check the repos here for both things) in my free time (trying to fix and/or improve devices I have, and also make things, like the PSU I mentioned)
 - ✨ Some ideas I like: IoT, low-level programming and Reverse Engineering, and electronics
