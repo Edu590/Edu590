@@ -38,6 +38,7 @@ It's still good enough for me to do some cool things though, which you can find 
 
 #### Electronics + Programming
 [![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=Edw590&repo=iob-soc-pong)](https://github.com/Edw590/iob-soc-pong)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=IObundle&repo=iob-soc)](https://github.com/IObundle/iob-soc)
 
 #### Electronics
 [![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Homemade-DC-PSU)](https://github.com/DADi590/Homemade-DC-PSU)
