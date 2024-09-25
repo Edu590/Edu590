@@ -11,7 +11,7 @@ I'm one of those people with old-gen CPUs from the last millenium (in my case, f
 It's still good enough for me to do some cool things though, which you can find in my repositories, and the currently most important for me are super-pinned just below. I love to do something useful that enables me to be creative (else it's boring) and learn new things along the way.
 
 - 🔭 I’m currently working on:
-- - a forever being developed virtual assistant, V.I.S.O.R.
+- - a forever being developed voice assistant, V.I.S.O.R.
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (check the repos here for both things) in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
 - ✨ Some ideas I like: IoT, low-level programming and Reverse Engineering, and electronics
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
