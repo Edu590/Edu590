@@ -1,4 +1,4 @@
-### Greetings random voyager! 👋
+### Greetings fellow voyager! 👋
 
 Welcome to my personal projects space! (Includes electronics and programming projects, not just programming ones)
 
