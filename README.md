@@ -50,7 +50,7 @@ It's still good enough for me to do some cool things though, which you can find 
 [![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=TestOS)](https://github.com/DADi590/TestOS)
 [![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=V.I.S.O.R.---A-real-assistant--Android-Client)](https://github.com/DADi590/V.I.S.O.R.---A-real-assistant--Android-Client)
 [![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=Edw590&repo=VISOR---Server-Version-Assistant)](https://github.com/Edw590/VISOR---Server-Version-Assistant)
-[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Advanced-Commands-Detection)](https://github.com/DADi590/Advanced-Commands-Detection)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=Edw590&repo=3DMazeMod)](https://github.com/Edw590/3DMazeMod)
 [![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=DADi590&repo=Chrome-Dino-Game-in-Assembly)](https://github.com/DADi590/Chrome-Dino-Game-in-Assembly)
 
 Amazing credits for the images above: https://github.com/anuraghazra/github-readme-stats.
