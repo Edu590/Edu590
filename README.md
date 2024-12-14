@@ -13,7 +13,6 @@ It's still good enough for me to do some cool things though, which you can find 
 - 🔭 I’m currently working on:
   - a forever being developed voice assistant, V.I.S.O.R.
   - my 30 V / 3 A linear power supply
-  - a multi-monitor mod for the 3D Maze Windows screensaver
 - 🌱 I’m currently learning: Electrical and Computer Engineering at university, and programming and messing with electronics (check the repos here for both things) in my free time (trying to fix and/or improve devices I have, and also make things, like a PSU)
 - ✨ Some ideas I like: IoT, low-level programming and Reverse Engineering, and electronics
 - 💬 Ask me about: anything you'd like - in my social media, an Issue [here](https://github.com/DADi590/DADi590/issues), or a Discussion [here](https://github.com/DADi590/DADi590/discussions).
